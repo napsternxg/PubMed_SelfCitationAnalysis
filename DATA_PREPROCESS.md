@@ -31,6 +31,11 @@ mysql -u "${DB_USERNAME}" -p ethnea -h "${DB_HOST}" -e "SELECT auid, Ethnea, Gen
 mysql -u "${DB_USERNAME}" -p PUBMED2010 -h "${DB_HOST}" -e "SELECT au_id, first_year, last_year FROM au_clst_all;" > data/AuthorityFirstLastYears.txt
 ```
 
+### Journal Journal similarity
+```
+mysql -u "${DB_USERNAME}" -p IMPLICIT -h "${DB_HOST}" -e "SELECT T1,T2,score FROM JJ;" > data/jj_sim.txt
+```
+
 ### Pubtypes
 
 https://www.nlm.nih.gov/mesh/pubtypes.html
