@@ -80,10 +80,10 @@
 ## Data prep steps
 
 Some of the above steps were done using our local copy of the dataset and can be found in the following files: 
-1. [Prepare Data.ipynb](Prepare Data.ipynb) - Basic data preparation described above, relies on data collected from our inhouse databases, the DB queries are provided in [DATA_PREPROCESS.md](DATA_PREPROCESS.md)
-2. [Model Prepare Data - First Author.ipynb](Model Prepare Data - First Author.ipynb) - Prepare data for doing the modelling for first author. Similar analysis for last author is provided in [Model Prepare Data - Last Author.ipynb](Model Prepare Data - Last Author.ipynb) and for middle author in [Model Prepare Data - Middle Author.ipynb](Model Prepare Data - Middle Author.ipynb). Finally, process for doing analysis on the PMC pair in provided in [Model Prepare Data - PMC Pair.ipynb](Model Prepare Data - PMC Pair.ipynb)
+1. [Prepare Data.ipynb](Prepare%20Data.ipynb) - Basic data preparation described above, relies on data collected from our inhouse databases, the DB queries are provided in [DATA_PREPROCESS.md](DATA_PREPROCESS.md)
+2. [Model Prepare Data - First Author.ipynb](Model%20Prepare%20Data%20-%20First%20Author.ipynb) - Prepare data for doing the modelling for first author. Similar analysis for last author is provided in [Model Prepare Data - Last Author.ipynb](Model%20Prepare%20Data%20-%20Last%20Author.ipynb) and for middle author in [Model Prepare Data - Middle Author.ipynb](Model Prepare Data - Middle Author.ipynb). Finally, process for doing analysis on the PMC pair in provided in [Model Prepare Data - PMC Pair.ipynb](Model%20Prepare%20Data%20-%20PMC%20Pair.ipynb)
 3. [train_model_parallel_v4.py](train_model_parallel_v4.py) - Do forward model selection on the data using. 
-4. [Empirical versus Fit-First Author.ipynb](Empirical versus Fit-First Author.ipynb) - Do empirical versus fit plots for first author. For last author [Empirical versus Fit-Last Author.ipynb](Empirical versus Fit-Last Author.ipynb)
-5. [Model Plotting-First Last.ipynb](Model Plotting-First Last.ipynb) - Plot model parameters for first and last author models.
-6. [Journal Models First Author.ipynb](Journal Models First Author.ipynb) - Journal models for first author. For last author - [Journal Models Last Author.ipynb](Journal Models Last Author.ipynb)
-7. [PMC Pair data analysis.ipynb](PMC Pair data analysis.ipynb) - Full analysis for PMC pair data
+4. [Empirical versus Fit-First Author.ipynb](Empirical%20versus%20Fit-First%20Author.ipynb) - Do empirical versus fit plots for first author. For last author [Empirical versus Fit-Last Author.ipynb](Empirical%20versus%20Fit-Last%20Author.ipynb)
+5. [Model Plotting-First Last.ipynb](Model%20Plotting-First%20Last.ipynb) - Plot model parameters for first and last author models.
+6. [Journal Models First Author.ipynb](Journal%20Models%20First%20Author.ipynb) - Journal models for first author. For last author - [Journal Models Last Author.ipynb](Journal%20Models%20Last%20Author.ipynb)
+7. [PMC Pair data analysis.ipynb](PMC%20Pair%20data%20analysis.ipynb) - Full analysis for PMC pair data
