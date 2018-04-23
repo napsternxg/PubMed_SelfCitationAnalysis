@@ -10,6 +10,7 @@ Our experiments relied on data from multiple sources including properitery data 
 
 * MEDLINE 2015 baseline: https://www.nlm.nih.gov/bsd/licensee/2015_stats/baseline_doc.html
 * Citation data from PubMed Central (original paper includes additional citations from Web of Science)
+  - Dataset citation: Mishra, Shubhanshu; Fegley, Brent D; Diesner, Jana; Torvik, Vetle I. (2018): Self-citation analysis data based on PubMed Central subset (2002-2005). University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-9665377_V1
 * Author-ity 2009 dataset: 
     - Dataset citation: Torvik, Vetle I.; Smalheiser, Neil R. (2018): Author-ity 2009 - PubMed author name disambiguated dataset. University of Illinois at Urbana-Champaign. https://doi.org/10.13012/B2IDB-4222651_V1
     - Paper citation: Torvik, V. I., & Smalheiser, N. R. (2009). Author name disambiguation in MEDLINE. ACM Transactions on Knowledge Discovery from Data, 3(3), 1–29. https://doi.org/10.1145/1552303.1552304
