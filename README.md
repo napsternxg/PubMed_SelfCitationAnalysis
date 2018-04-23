@@ -1,5 +1,7 @@
 # Self Citation analysis on PubMed data
 
+[![DOI](https://zenodo.org/badge/114928249.svg)](https://zenodo.org/badge/latestdoi/114928249)
+
 Code for reproducing the experiments, figures, and tables presented in the paper **Mishra, S., Fegley, B. D., Diesner, J., & Torvik, V. I. (2018). Self-Citation is the Hallmark of Productive Authors, of Any Gender. PLoS One.**
 
 Replication steps provided in [REPLICATION.md](RECPLICATION.md)
